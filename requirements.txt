@@ -1,0 +1,13 @@
+fastapi[standard]
+uvicorn
+sqlalchemy
+alembic
+psycopg2-binary
+python-jose[cryptography]
+passlib[bcrypt]
+pydantic[email]
+pydantic-settings
+python-dotenv
+openai
+asgiref
+bcrypt==3.2.2
