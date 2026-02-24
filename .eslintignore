@@ -65,6 +65,8 @@ app/env.bak/
 app/venv.bak/
 app/site
 app/.mypy_cache/
+*/**/__pycache__
+__pycache__
 app/*.tmlanguage.cache
 app/*.tmPreferences.cache
 app/*.stTheme.cache
